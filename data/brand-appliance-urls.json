@@ -1,0 +1,2584 @@
+{
+  "Craftsman Pro": [
+    {
+      "appliance": "Craftsman Pro Riding mower",
+      "url": "https://www.searshomeservices.com/repair/craftsman-pro/riding-mower"
+    },
+    {
+      "appliance": "Craftsman Pro Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/craftsman-pro/wide-deck-lawn-mower"
+    }
+  ],
+  "LG": [
+    {
+      "appliance": "LG Range hood",
+      "url": "https://www.searshomeservices.com/repair/lg/range-hood"
+    },
+    {
+      "appliance": "LG Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/lg/washer-dryer-combo"
+    },
+    {
+      "appliance": "LG Freezer",
+      "url": "https://www.searshomeservices.com/repair/lg/freezer"
+    },
+    {
+      "appliance": "LG Ice maker",
+      "url": "https://www.searshomeservices.com/repair/lg/ice-maker-freestanding"
+    },
+    {
+      "appliance": "LG Double oven",
+      "url": "https://www.searshomeservices.com/repair/lg/double-oven"
+    },
+    {
+      "appliance": "LG Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/lg/stacked-laundry"
+    },
+    {
+      "appliance": "LG Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/lg/refrigerator"
+    },
+    {
+      "appliance": "LG Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/lg/dishwasher"
+    },
+    {
+      "appliance": "LG Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/lg/trash-compactor"
+    },
+    {
+      "appliance": "LG Oven",
+      "url": "https://www.searshomeservices.com/repair/lg/oven"
+    },
+    {
+      "appliance": "LG Cooktop",
+      "url": "https://www.searshomeservices.com/repair/lg/cooktop"
+    },
+    {
+      "appliance": "LG Microwave",
+      "url": "https://www.searshomeservices.com/repair/lg/microwave"
+    },
+    {
+      "appliance": "LG Dryer",
+      "url": "https://www.searshomeservices.com/repair/lg/dryer"
+    },
+    {
+      "appliance": "LG Washer",
+      "url": "https://www.searshomeservices.com/repair/lg/washer"
+    },
+    {
+      "appliance": "LG Range",
+      "url": "https://www.searshomeservices.com/repair/lg/range"
+    }
+  ],
+  "Tappan": [
+    {
+      "appliance": "Tappan Microwave",
+      "url": "https://www.searshomeservices.com/repair/tappan/microwave"
+    },
+    {
+      "appliance": "Tappan Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/tappan/washer-dryer-combo"
+    },
+    {
+      "appliance": "Tappan Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/tappan/refrigerator"
+    },
+    {
+      "appliance": "Tappan Range hood",
+      "url": "https://www.searshomeservices.com/repair/tappan/range-hood"
+    },
+    {
+      "appliance": "Tappan Dryer",
+      "url": "https://www.searshomeservices.com/repair/tappan/dryer"
+    },
+    {
+      "appliance": "Tappan Double oven",
+      "url": "https://www.searshomeservices.com/repair/tappan/double-oven"
+    },
+    {
+      "appliance": "Tappan Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/tappan/dishwasher"
+    },
+    {
+      "appliance": "Tappan Ice maker",
+      "url": "https://www.searshomeservices.com/repair/tappan/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Tappan Washer",
+      "url": "https://www.searshomeservices.com/repair/tappan/washer"
+    },
+    {
+      "appliance": "Tappan Cooktop",
+      "url": "https://www.searshomeservices.com/repair/tappan/cooktop"
+    },
+    {
+      "appliance": "Tappan Range",
+      "url": "https://www.searshomeservices.com/repair/tappan/range"
+    },
+    {
+      "appliance": "Tappan Freezer",
+      "url": "https://www.searshomeservices.com/repair/tappan/freezer"
+    },
+    {
+      "appliance": "Tappan Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/tappan/trash-compactor"
+    },
+    {
+      "appliance": "Tappan Oven",
+      "url": "https://www.searshomeservices.com/repair/tappan/oven"
+    },
+    {
+      "appliance": "Tappan Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/tappan/stacked-laundry"
+    }
+  ],
+  "Comfortmaker": [
+    {
+      "appliance": "Comfortmaker Central air",
+      "url": "https://www.searshomeservices.com/repair/comfortmaker/central-air"
+    },
+    {
+      "appliance": "Comfortmaker Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/comfortmaker/gas-furnace"
+    },
+    {
+      "appliance": "Comfortmaker Hvac",
+      "url": "https://www.searshomeservices.com/repair/comfortmaker/all-hvac"
+    }
+  ],
+  "Cub Cadet": [
+    {
+      "appliance": "Cub Cadet Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/cub-cadet/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Cub Cadet Riding mower",
+      "url": "https://www.searshomeservices.com/repair/cub-cadet/riding-mower"
+    },
+    {
+      "appliance": "Cub Cadet Snowblower",
+      "url": "https://www.searshomeservices.com/repair/cub-cadet/snowblower"
+    }
+  ],
+  "Gibson": [
+    {
+      "appliance": "Gibson Washer",
+      "url": "https://www.searshomeservices.com/repair/gibson/washer"
+    },
+    {
+      "appliance": "Gibson Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/gibson/stacked-laundry"
+    },
+    {
+      "appliance": "Gibson Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/gibson/dishwasher"
+    },
+    {
+      "appliance": "Gibson Double oven",
+      "url": "https://www.searshomeservices.com/repair/gibson/double-oven"
+    },
+    {
+      "appliance": "Gibson Range hood",
+      "url": "https://www.searshomeservices.com/repair/gibson/range-hood"
+    },
+    {
+      "appliance": "Gibson Oven",
+      "url": "https://www.searshomeservices.com/repair/gibson/oven"
+    },
+    {
+      "appliance": "Gibson Freezer",
+      "url": "https://www.searshomeservices.com/repair/gibson/freezer"
+    },
+    {
+      "appliance": "Gibson Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/gibson/trash-compactor"
+    },
+    {
+      "appliance": "Gibson Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/gibson/washer-dryer-combo"
+    },
+    {
+      "appliance": "Gibson Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/gibson/refrigerator"
+    },
+    {
+      "appliance": "Gibson Range",
+      "url": "https://www.searshomeservices.com/repair/gibson/range"
+    },
+    {
+      "appliance": "Gibson Ice maker",
+      "url": "https://www.searshomeservices.com/repair/gibson/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Gibson Dryer",
+      "url": "https://www.searshomeservices.com/repair/gibson/dryer"
+    },
+    {
+      "appliance": "Gibson Microwave",
+      "url": "https://www.searshomeservices.com/repair/gibson/microwave"
+    }
+  ],
+  "GE Profile": [
+    {
+      "appliance": "GE Profile Dryer",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/dryer"
+    },
+    {
+      "appliance": "GE Profile Cooktop",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/cooktop"
+    },
+    {
+      "appliance": "GE Profile Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/stacked-laundry"
+    },
+    {
+      "appliance": "GE Profile Oven",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/oven"
+    },
+    {
+      "appliance": "GE Profile Double oven",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/double-oven"
+    },
+    {
+      "appliance": "GE Profile Ice maker",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/ice-maker-freestanding"
+    },
+    {
+      "appliance": "GE Profile Freezer",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/freezer"
+    },
+    {
+      "appliance": "GE Profile Microwave",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/microwave"
+    },
+    {
+      "appliance": "GE Profile Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/dishwasher"
+    },
+    {
+      "appliance": "GE Profile Washer",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/washer"
+    },
+    {
+      "appliance": "GE Profile Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/washer-dryer-combo"
+    },
+    {
+      "appliance": "GE Profile Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/refrigerator"
+    },
+    {
+      "appliance": "GE Profile Range hood",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/range-hood"
+    },
+    {
+      "appliance": "GE Profile Range",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/range"
+    },
+    {
+      "appliance": "GE Profile Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/ge-profile/trash-compactor"
+    }
+  ],
+  "Rheem": [
+    {
+      "appliance": "Rheem Hvac",
+      "url": "https://www.searshomeservices.com/repair/rheem/all-hvac"
+    },
+    {
+      "appliance": "Rheem Central air",
+      "url": "https://www.searshomeservices.com/repair/rheem/central-air"
+    },
+    {
+      "appliance": "Rheem Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/rheem/gas-furnace"
+    },
+    {
+      "appliance": "Rheem Water heater",
+      "url": "https://www.searshomeservices.com/repair/rheem/water-heater"
+    },
+    {
+      "appliance": "Rheem Boiler",
+      "url": "https://www.searshomeservices.com/repair/rheem/boiler"
+    },
+    {
+      "appliance": "Rheem Humidifier & dehumidifier",
+      "url": "https://www.searshomeservices.com/repair/rheem/humidifier-and-dehumidifier"
+    },
+    {
+      "appliance": "Rheem Heat pump",
+      "url": "https://www.searshomeservices.com/repair/rheem/heat-pump"
+    }
+  ],
+  "Estate": [
+    {
+      "appliance": "Estate Oven",
+      "url": "https://www.searshomeservices.com/repair/estate/oven"
+    },
+    {
+      "appliance": "Estate Microwave",
+      "url": "https://www.searshomeservices.com/repair/estate/microwave"
+    },
+    {
+      "appliance": "Estate Washer",
+      "url": "https://www.searshomeservices.com/repair/estate/washer"
+    },
+    {
+      "appliance": "Estate Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/estate/trash-compactor"
+    },
+    {
+      "appliance": "Estate Cooktop",
+      "url": "https://www.searshomeservices.com/repair/estate/cooktop"
+    },
+    {
+      "appliance": "Estate Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/estate/refrigerator"
+    },
+    {
+      "appliance": "Estate Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/estate/stacked-laundry"
+    },
+    {
+      "appliance": "Estate Double oven",
+      "url": "https://www.searshomeservices.com/repair/estate/double-oven"
+    },
+    {
+      "appliance": "Estate Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/estate/dishwasher"
+    },
+    {
+      "appliance": "Estate Range hood",
+      "url": "https://www.searshomeservices.com/repair/estate/range-hood"
+    },
+    {
+      "appliance": "Estate Ice maker",
+      "url": "https://www.searshomeservices.com/repair/estate/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Estate Freezer",
+      "url": "https://www.searshomeservices.com/repair/estate/freezer"
+    },
+    {
+      "appliance": "Estate Dryer",
+      "url": "https://www.searshomeservices.com/repair/estate/dryer"
+    },
+    {
+      "appliance": "Estate Range",
+      "url": "https://www.searshomeservices.com/repair/estate/range"
+    },
+    {
+      "appliance": "Estate Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/estate/washer-dryer-combo"
+    }
+  ],
+  "Schwinn": [
+    {
+      "appliance": "Schwinn Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/schwinn/elliptical-machine"
+    },
+    {
+      "appliance": "Schwinn Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/schwinn/stationary-bike"
+    },
+    {
+      "appliance": "Schwinn Treadmill",
+      "url": "https://www.searshomeservices.com/repair/schwinn/treadmill"
+    },
+    {
+      "appliance": "Schwinn Weight machine",
+      "url": "https://www.searshomeservices.com/repair/schwinn/weight-machine"
+    },
+    {
+      "appliance": "Schwinn Stepper",
+      "url": "https://www.searshomeservices.com/repair/schwinn/stepper"
+    }
+  ],
+  "Kenmore Pro": [
+    {
+      "appliance": "Kenmore Pro Cooktop",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/cooktop"
+    },
+    {
+      "appliance": "Kenmore Pro Ice maker",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Kenmore Pro Range hood",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/range-hood"
+    },
+    {
+      "appliance": "Kenmore Pro Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/washer-dryer-combo"
+    },
+    {
+      "appliance": "Kenmore Pro Microwave",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/microwave"
+    },
+    {
+      "appliance": "Kenmore Pro Double oven",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/double-oven"
+    },
+    {
+      "appliance": "Kenmore Pro Oven",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/oven"
+    },
+    {
+      "appliance": "Kenmore Pro Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/dishwasher"
+    },
+    {
+      "appliance": "Kenmore Pro Freezer",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/freezer"
+    },
+    {
+      "appliance": "Kenmore Pro Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/refrigerator"
+    },
+    {
+      "appliance": "Kenmore Pro Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/trash-compactor"
+    },
+    {
+      "appliance": "Kenmore Pro Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/stacked-laundry"
+    },
+    {
+      "appliance": "Kenmore Pro Range",
+      "url": "https://www.searshomeservices.com/repair/kenmore-pro/range"
+    }
+  ],
+  "Liebherr": [
+    {
+      "appliance": "Liebherr Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/liebherr/refrigerator"
+    },
+    {
+      "appliance": "Liebherr Freezer",
+      "url": "https://www.searshomeservices.com/repair/liebherr/freezer"
+    }
+  ],
+  "ICP": [
+    {
+      "appliance": "ICP Central air",
+      "url": "https://www.searshomeservices.com/repair/icp/central-air"
+    },
+    {
+      "appliance": "ICP Hvac",
+      "url": "https://www.searshomeservices.com/repair/icp/all-hvac"
+    },
+    {
+      "appliance": "ICP Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/icp/gas-furnace"
+    }
+  ],
+  "Reebok": [
+    {
+      "appliance": "Reebok Weight machine",
+      "url": "https://www.searshomeservices.com/repair/reebok/weight-machine"
+    },
+    {
+      "appliance": "Reebok Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/reebok/elliptical-machine"
+    },
+    {
+      "appliance": "Reebok Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/reebok/stationary-bike"
+    },
+    {
+      "appliance": "Reebok Stepper",
+      "url": "https://www.searshomeservices.com/repair/reebok/stepper"
+    },
+    {
+      "appliance": "Reebok Treadmill",
+      "url": "https://www.searshomeservices.com/repair/reebok/treadmill"
+    }
+  ],
+  "BBQ Pro": [
+    {
+      "appliance": "BBQ Pro Gas grill",
+      "url": "https://www.searshomeservices.com/repair/bbq-pro/gas-grill"
+    }
+  ],
+  "Hisense": [
+    {
+      "appliance": "Hisense Microwave",
+      "url": "https://www.searshomeservices.com/repair/hisense/microwave"
+    },
+    {
+      "appliance": "Hisense Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/hisense/dishwasher"
+    },
+    {
+      "appliance": "Hisense Range",
+      "url": "https://www.searshomeservices.com/repair/hisense/range"
+    },
+    {
+      "appliance": "Hisense Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/hisense/refrigerator"
+    }
+  ],
+  "Diamondback": [
+    {
+      "appliance": "Diamondback Treadmill",
+      "url": "https://www.searshomeservices.com/repair/diamondback/treadmill"
+    },
+    {
+      "appliance": "Diamondback Weight machine",
+      "url": "https://www.searshomeservices.com/repair/diamondback/weight-machine"
+    },
+    {
+      "appliance": "Diamondback Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/diamondback/elliptical-machine"
+    },
+    {
+      "appliance": "Diamondback Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/diamondback/stationary-bike"
+    },
+    {
+      "appliance": "Diamondback Stepper",
+      "url": "https://www.searshomeservices.com/repair/diamondback/stepper"
+    }
+  ],
+  "Roper": [
+    {
+      "appliance": "Roper Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/roper/stacked-laundry"
+    },
+    {
+      "appliance": "Roper Microwave",
+      "url": "https://www.searshomeservices.com/repair/roper/microwave"
+    },
+    {
+      "appliance": "Roper Double oven",
+      "url": "https://www.searshomeservices.com/repair/roper/double-oven"
+    },
+    {
+      "appliance": "Roper Range hood",
+      "url": "https://www.searshomeservices.com/repair/roper/range-hood"
+    },
+    {
+      "appliance": "Roper Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/roper/refrigerator"
+    },
+    {
+      "appliance": "Roper Ice maker",
+      "url": "https://www.searshomeservices.com/repair/roper/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Roper Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/roper/washer-dryer-combo"
+    },
+    {
+      "appliance": "Roper Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/roper/trash-compactor"
+    },
+    {
+      "appliance": "Roper Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/roper/dishwasher"
+    },
+    {
+      "appliance": "Roper Dryer",
+      "url": "https://www.searshomeservices.com/repair/roper/dryer"
+    }
+  ],
+  "GE Cafe": [
+    {
+      "appliance": "GE Cafe Ice maker",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/ice-maker-freestanding"
+    },
+    {
+      "appliance": "GE Cafe Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/refrigerator"
+    },
+    {
+      "appliance": "GE Cafe Cooktop",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/cooktop"
+    },
+    {
+      "appliance": "GE Cafe Freezer",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/freezer"
+    },
+    {
+      "appliance": "GE Cafe Range",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/range"
+    },
+    {
+      "appliance": "GE Cafe Double oven",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/double-oven"
+    },
+    {
+      "appliance": "GE Cafe Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/trash-compactor"
+    },
+    {
+      "appliance": "GE Cafe Oven",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/oven"
+    },
+    {
+      "appliance": "GE Cafe Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/stacked-laundry"
+    },
+    {
+      "appliance": "GE Cafe Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/washer-dryer-combo"
+    },
+    {
+      "appliance": "GE Cafe Microwave",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/microwave"
+    },
+    {
+      "appliance": "GE Cafe Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/dishwasher"
+    },
+    {
+      "appliance": "GE Cafe Range hood",
+      "url": "https://www.searshomeservices.com/repair/ge-cafe/range-hood"
+    }
+  ],
+  "Bryant": [
+    {
+      "appliance": "Bryant Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/bryant/gas-furnace"
+    },
+    {
+      "appliance": "Bryant Central air",
+      "url": "https://www.searshomeservices.com/repair/bryant/central-air"
+    },
+    {
+      "appliance": "Bryant Hvac",
+      "url": "https://www.searshomeservices.com/repair/bryant/all-hvac"
+    }
+  ],
+  "Poulan": [
+    {
+      "appliance": "Poulan Snowblower",
+      "url": "https://www.searshomeservices.com/repair/poulan/snowblower"
+    },
+    {
+      "appliance": "Poulan Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/poulan/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Poulan Riding mower",
+      "url": "https://www.searshomeservices.com/repair/poulan/riding-mower"
+    }
+  ],
+  "BowFlex": [
+    {
+      "appliance": "BowFlex Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/bowflex/elliptical-machine"
+    },
+    {
+      "appliance": "BowFlex Stepper",
+      "url": "https://www.searshomeservices.com/repair/bowflex/stepper"
+    },
+    {
+      "appliance": "BowFlex Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/bowflex/stationary-bike"
+    },
+    {
+      "appliance": "BowFlex Treadmill",
+      "url": "https://www.searshomeservices.com/repair/bowflex/treadmill"
+    },
+    {
+      "appliance": "BowFlex Weight machine",
+      "url": "https://www.searshomeservices.com/repair/bowflex/weight-machine"
+    }
+  ],
+  "JennAir": [
+    {
+      "appliance": "JennAir Cooktop",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/cooktop"
+    },
+    {
+      "appliance": "JennAir Freezer",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/freezer"
+    },
+    {
+      "appliance": "JennAir Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/trash-compactor"
+    },
+    {
+      "appliance": "JennAir Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/washer-dryer-combo"
+    },
+    {
+      "appliance": "JennAir Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/dishwasher"
+    },
+    {
+      "appliance": "JennAir Range hood",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/range-hood"
+    },
+    {
+      "appliance": "JennAir Ice maker",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/ice-maker-freestanding"
+    },
+    {
+      "appliance": "JennAir Range",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/range"
+    },
+    {
+      "appliance": "JennAir Microwave",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/microwave"
+    },
+    {
+      "appliance": "JennAir Double oven",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/double-oven"
+    },
+    {
+      "appliance": "JennAir Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/stacked-laundry"
+    },
+    {
+      "appliance": "JennAir Oven",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/oven"
+    },
+    {
+      "appliance": "JennAir Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/jenn-air/refrigerator"
+    }
+  ],
+  "Heil": [
+    {
+      "appliance": "Heil Central air",
+      "url": "https://www.searshomeservices.com/repair/heil/central-air"
+    },
+    {
+      "appliance": "Heil Hvac",
+      "url": "https://www.searshomeservices.com/repair/heil/all-hvac"
+    },
+    {
+      "appliance": "Heil Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/heil/gas-furnace"
+    }
+  ],
+  "Weider": [
+    {
+      "appliance": "Weider Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/weider/elliptical-machine"
+    },
+    {
+      "appliance": "Weider Treadmill",
+      "url": "https://www.searshomeservices.com/repair/weider/treadmill"
+    },
+    {
+      "appliance": "Weider Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/weider/stationary-bike"
+    },
+    {
+      "appliance": "Weider Stepper",
+      "url": "https://www.searshomeservices.com/repair/weider/stepper"
+    },
+    {
+      "appliance": "Weider Weight machine",
+      "url": "https://www.searshomeservices.com/repair/weider/weight-machine"
+    }
+  ],
+  "Whirlpool": [
+    {
+      "appliance": "Whirlpool Washer",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/washer"
+    },
+    {
+      "appliance": "Whirlpool Range hood",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/range-hood"
+    },
+    {
+      "appliance": "Whirlpool Oven",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/oven"
+    },
+    {
+      "appliance": "Whirlpool Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/dishwasher"
+    },
+    {
+      "appliance": "Whirlpool Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/stacked-laundry"
+    },
+    {
+      "appliance": "Whirlpool Double oven",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/double-oven"
+    },
+    {
+      "appliance": "Whirlpool Freezer",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/freezer"
+    },
+    {
+      "appliance": "Whirlpool Microwave",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/microwave"
+    },
+    {
+      "appliance": "Whirlpool Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/refrigerator"
+    },
+    {
+      "appliance": "Whirlpool Dryer",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/dryer"
+    },
+    {
+      "appliance": "Whirlpool Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/washer-dryer-combo"
+    },
+    {
+      "appliance": "Whirlpool Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/trash-compactor"
+    },
+    {
+      "appliance": "Whirlpool Cooktop",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/cooktop"
+    },
+    {
+      "appliance": "Whirlpool Range",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/range"
+    },
+    {
+      "appliance": "Whirlpool Ice maker",
+      "url": "https://www.searshomeservices.com/repair/whirlpool/ice-maker-freestanding"
+    }
+  ],
+  "Panasonic": [
+    {
+      "appliance": "Panasonic Microwave",
+      "url": "https://www.searshomeservices.com/repair/panasonic/microwave"
+    }
+  ],
+  "Bladez": [
+    {
+      "appliance": "Bladez Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/bladez/stationary-bike"
+    }
+  ],
+  "Lifestyler": [
+    {
+      "appliance": "Lifestyler Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/lifestyler/elliptical-machine"
+    },
+    {
+      "appliance": "Lifestyler Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/lifestyler/stationary-bike"
+    },
+    {
+      "appliance": "Lifestyler Treadmill",
+      "url": "https://www.searshomeservices.com/repair/lifestyler/treadmill"
+    },
+    {
+      "appliance": "Lifestyler Stepper",
+      "url": "https://www.searshomeservices.com/repair/lifestyler/stepper"
+    },
+    {
+      "appliance": "Lifestyler Weight machine",
+      "url": "https://www.searshomeservices.com/repair/lifestyler/weight-machine"
+    }
+  ],
+  "Daewoo": [
+    {
+      "appliance": "Daewoo Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/daewoo/refrigerator"
+    }
+  ],
+  "Proform": [
+    {
+      "appliance": "Proform Weight machine",
+      "url": "https://www.searshomeservices.com/repair/proform/weight-machine"
+    }
+  ],
+  "Toro": [
+    {
+      "appliance": "Toro Riding mower",
+      "url": "https://www.searshomeservices.com/repair/toro/riding-mower"
+    },
+    {
+      "appliance": "Toro Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/toro/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Toro Snowblower",
+      "url": "https://www.searshomeservices.com/repair/toro/snowblower"
+    }
+  ],
+  "Char-Broil": [
+    {
+      "appliance": "Char-Broil Gas grill",
+      "url": "https://www.searshomeservices.com/repair/char-broil/gas-grill"
+    }
+  ],
+  "Yard Machines": [
+    {
+      "appliance": "Yard Machines Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/yard-machines/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Yard Machines Riding mower",
+      "url": "https://www.searshomeservices.com/repair/yard-machines/riding-mower"
+    }
+  ],
+  "Thermador": [
+    {
+      "appliance": "Thermador Microwave",
+      "url": "https://www.searshomeservices.com/repair/thermador/microwave"
+    },
+    {
+      "appliance": "Thermador Freezer",
+      "url": "https://www.searshomeservices.com/repair/thermador/freezer"
+    },
+    {
+      "appliance": "Thermador Range",
+      "url": "https://www.searshomeservices.com/repair/thermador/range"
+    },
+    {
+      "appliance": "Thermador Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/thermador/refrigerator"
+    },
+    {
+      "appliance": "Thermador Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/thermador/dishwasher"
+    },
+    {
+      "appliance": "Thermador Oven",
+      "url": "https://www.searshomeservices.com/repair/thermador/oven"
+    }
+  ],
+  "HealthRider": [
+    {
+      "appliance": "HealthRider Treadmill",
+      "url": "https://www.searshomeservices.com/repair/healthrider/treadmill"
+    },
+    {
+      "appliance": "HealthRider Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/healthrider/elliptical-machine"
+    },
+    {
+      "appliance": "HealthRider Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/healthrider/stationary-bike"
+    },
+    {
+      "appliance": "HealthRider Weight machine",
+      "url": "https://www.searshomeservices.com/repair/healthrider/weight-machine"
+    },
+    {
+      "appliance": "HealthRider Stepper",
+      "url": "https://www.searshomeservices.com/repair/healthrider/stepper"
+    }
+  ],
+  "KitchenAid": [
+    {
+      "appliance": "KitchenAid Double oven",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/double-oven"
+    },
+    {
+      "appliance": "KitchenAid Cooktop",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/cooktop"
+    },
+    {
+      "appliance": "KitchenAid Microwave",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/microwave"
+    },
+    {
+      "appliance": "KitchenAid Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/trash-compactor"
+    },
+    {
+      "appliance": "KitchenAid Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/stacked-laundry"
+    },
+    {
+      "appliance": "KitchenAid Range hood",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/range-hood"
+    },
+    {
+      "appliance": "KitchenAid Ice maker",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/ice-maker-freestanding"
+    },
+    {
+      "appliance": "KitchenAid Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/refrigerator"
+    },
+    {
+      "appliance": "KitchenAid Range",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/range"
+    },
+    {
+      "appliance": "KitchenAid Dryer",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/dryer"
+    },
+    {
+      "appliance": "KitchenAid Washer",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/washer"
+    },
+    {
+      "appliance": "KitchenAid Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/dishwasher"
+    },
+    {
+      "appliance": "KitchenAid Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/washer-dryer-combo"
+    },
+    {
+      "appliance": "KitchenAid Gas grill",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/gas-grill"
+    },
+    {
+      "appliance": "KitchenAid Freezer",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/freezer"
+    },
+    {
+      "appliance": "KitchenAid Oven",
+      "url": "https://www.searshomeservices.com/repair/kitchenaid/oven"
+    }
+  ],
+  "Hotpoint": [
+    {
+      "appliance": "Hotpoint Double oven",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/double-oven"
+    },
+    {
+      "appliance": "Hotpoint Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/dishwasher"
+    },
+    {
+      "appliance": "Hotpoint Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/washer-dryer-combo"
+    },
+    {
+      "appliance": "Hotpoint Freezer",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/freezer"
+    },
+    {
+      "appliance": "Hotpoint Range",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/range"
+    },
+    {
+      "appliance": "Hotpoint Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/trash-compactor"
+    },
+    {
+      "appliance": "Hotpoint Dryer",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/dryer"
+    },
+    {
+      "appliance": "Hotpoint Washer",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/washer"
+    },
+    {
+      "appliance": "Hotpoint Range hood",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/range-hood"
+    },
+    {
+      "appliance": "Hotpoint Ice maker",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Hotpoint Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/refrigerator"
+    },
+    {
+      "appliance": "Hotpoint Oven",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/oven"
+    },
+    {
+      "appliance": "Hotpoint Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/stacked-laundry"
+    },
+    {
+      "appliance": "Hotpoint Microwave",
+      "url": "https://www.searshomeservices.com/repair/hotpoint/microwave"
+    }
+  ],
+  "MTD": [
+    {
+      "appliance": "MTD Snowblower",
+      "url": "https://www.searshomeservices.com/repair/mtd/snowblower"
+    },
+    {
+      "appliance": "MTD Riding mower",
+      "url": "https://www.searshomeservices.com/repair/mtd/riding-mower"
+    },
+    {
+      "appliance": "MTD Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/mtd/wide-deck-lawn-mower"
+    }
+  ],
+  "GE": [
+    {
+      "appliance": "GE Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/ge/refrigerator"
+    },
+    {
+      "appliance": "GE Range",
+      "url": "https://www.searshomeservices.com/repair/ge/range"
+    },
+    {
+      "appliance": "GE Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/ge/washer-dryer-combo"
+    },
+    {
+      "appliance": "GE Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/ge/stacked-laundry"
+    },
+    {
+      "appliance": "GE Oven",
+      "url": "https://www.searshomeservices.com/repair/ge/oven"
+    },
+    {
+      "appliance": "GE Double oven",
+      "url": "https://www.searshomeservices.com/repair/ge/double-oven"
+    },
+    {
+      "appliance": "GE Washer",
+      "url": "https://www.searshomeservices.com/repair/ge/washer"
+    },
+    {
+      "appliance": "GE Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/ge/trash-compactor"
+    },
+    {
+      "appliance": "GE Microwave",
+      "url": "https://www.searshomeservices.com/repair/ge/microwave"
+    },
+    {
+      "appliance": "GE Freezer",
+      "url": "https://www.searshomeservices.com/repair/ge/freezer"
+    },
+    {
+      "appliance": "GE Range hood",
+      "url": "https://www.searshomeservices.com/repair/ge/range-hood"
+    },
+    {
+      "appliance": "GE Ice maker",
+      "url": "https://www.searshomeservices.com/repair/ge/ice-maker-freestanding"
+    },
+    {
+      "appliance": "GE Cooktop",
+      "url": "https://www.searshomeservices.com/repair/ge/cooktop"
+    },
+    {
+      "appliance": "GE Dryer",
+      "url": "https://www.searshomeservices.com/repair/ge/dryer"
+    },
+    {
+      "appliance": "GE Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/ge/dishwasher"
+    }
+  ],
+  "Amana": [
+    {
+      "appliance": "Amana Range",
+      "url": "https://www.searshomeservices.com/repair/amana/range"
+    },
+    {
+      "appliance": "Amana Freezer",
+      "url": "https://www.searshomeservices.com/repair/amana/freezer"
+    },
+    {
+      "appliance": "Amana Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/amana/stacked-laundry"
+    },
+    {
+      "appliance": "Amana Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/amana/refrigerator"
+    },
+    {
+      "appliance": "Amana Microwave",
+      "url": "https://www.searshomeservices.com/repair/amana/microwave"
+    },
+    {
+      "appliance": "Amana Range hood",
+      "url": "https://www.searshomeservices.com/repair/amana/range-hood"
+    },
+    {
+      "appliance": "Amana Dryer",
+      "url": "https://www.searshomeservices.com/repair/amana/dryer"
+    },
+    {
+      "appliance": "Amana Oven",
+      "url": "https://www.searshomeservices.com/repair/amana/oven"
+    },
+    {
+      "appliance": "Amana Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/amana/dishwasher"
+    },
+    {
+      "appliance": "Amana Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/amana/washer-dryer-combo"
+    },
+    {
+      "appliance": "Amana Washer",
+      "url": "https://www.searshomeservices.com/repair/amana/washer"
+    },
+    {
+      "appliance": "Amana Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/amana/trash-compactor"
+    },
+    {
+      "appliance": "Amana Ice maker",
+      "url": "https://www.searshomeservices.com/repair/amana/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Amana Cooktop",
+      "url": "https://www.searshomeservices.com/repair/amana/cooktop"
+    },
+    {
+      "appliance": "Amana Double oven",
+      "url": "https://www.searshomeservices.com/repair/amana/double-oven"
+    }
+  ],
+  "Galaxy": [
+    {
+      "appliance": "Galaxy Oven",
+      "url": "https://www.searshomeservices.com/repair/galaxy/oven"
+    },
+    {
+      "appliance": "Galaxy Freezer",
+      "url": "https://www.searshomeservices.com/repair/galaxy/freezer"
+    },
+    {
+      "appliance": "Galaxy Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/galaxy/refrigerator"
+    },
+    {
+      "appliance": "Galaxy Range hood",
+      "url": "https://www.searshomeservices.com/repair/galaxy/range-hood"
+    },
+    {
+      "appliance": "Galaxy Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/galaxy/dishwasher"
+    },
+    {
+      "appliance": "Galaxy Range",
+      "url": "https://www.searshomeservices.com/repair/galaxy/range"
+    },
+    {
+      "appliance": "Galaxy Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/galaxy/stacked-laundry"
+    },
+    {
+      "appliance": "Galaxy Microwave",
+      "url": "https://www.searshomeservices.com/repair/galaxy/microwave"
+    },
+    {
+      "appliance": "Galaxy Washer",
+      "url": "https://www.searshomeservices.com/repair/galaxy/washer"
+    },
+    {
+      "appliance": "Galaxy Ice maker",
+      "url": "https://www.searshomeservices.com/repair/galaxy/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Galaxy Cooktop",
+      "url": "https://www.searshomeservices.com/repair/galaxy/cooktop"
+    },
+    {
+      "appliance": "Galaxy Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/galaxy/washer-dryer-combo"
+    },
+    {
+      "appliance": "Galaxy Dryer",
+      "url": "https://www.searshomeservices.com/repair/galaxy/dryer"
+    },
+    {
+      "appliance": "Galaxy Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/galaxy/trash-compactor"
+    },
+    {
+      "appliance": "Galaxy Double oven",
+      "url": "https://www.searshomeservices.com/repair/galaxy/double-oven"
+    }
+  ],
+  "Dacor": [
+    {
+      "appliance": "Dacor Microwave",
+      "url": "https://www.searshomeservices.com/repair/dacor/microwave"
+    },
+    {
+      "appliance": "Dacor Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/dacor/dishwasher"
+    },
+    {
+      "appliance": "Dacor Oven",
+      "url": "https://www.searshomeservices.com/repair/dacor/oven"
+    },
+    {
+      "appliance": "Dacor Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/dacor/refrigerator"
+    },
+    {
+      "appliance": "Dacor Range",
+      "url": "https://www.searshomeservices.com/repair/dacor/range"
+    },
+    {
+      "appliance": "Dacor Freezer",
+      "url": "https://www.searshomeservices.com/repair/dacor/freezer"
+    }
+  ],
+  "GE Monogram": [
+    {
+      "appliance": "GE Monogram Freezer",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/freezer"
+    },
+    {
+      "appliance": "GE Monogram Range",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/range"
+    },
+    {
+      "appliance": "GE Monogram Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/trash-compactor"
+    },
+    {
+      "appliance": "GE Monogram Oven",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/oven"
+    },
+    {
+      "appliance": "GE Monogram Double oven",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/double-oven"
+    },
+    {
+      "appliance": "GE Monogram Range hood",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/range-hood"
+    },
+    {
+      "appliance": "GE Monogram Ice maker",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/ice-maker-freestanding"
+    },
+    {
+      "appliance": "GE Monogram Microwave",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/microwave"
+    },
+    {
+      "appliance": "GE Monogram Cooktop",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/cooktop"
+    },
+    {
+      "appliance": "GE Monogram Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/washer-dryer-combo"
+    },
+    {
+      "appliance": "GE Monogram Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/stacked-laundry"
+    },
+    {
+      "appliance": "GE Monogram Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/refrigerator"
+    },
+    {
+      "appliance": "GE Monogram Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/ge-monogram/dishwasher"
+    }
+  ],
+  "Crosley": [
+    {
+      "appliance": "Crosley Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/crosley/refrigerator"
+    },
+    {
+      "appliance": "Crosley Double oven",
+      "url": "https://www.searshomeservices.com/repair/crosley/double-oven"
+    },
+    {
+      "appliance": "Crosley Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/crosley/trash-compactor"
+    },
+    {
+      "appliance": "Crosley Freezer",
+      "url": "https://www.searshomeservices.com/repair/crosley/freezer"
+    },
+    {
+      "appliance": "Crosley Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/crosley/dishwasher"
+    },
+    {
+      "appliance": "Crosley Range hood",
+      "url": "https://www.searshomeservices.com/repair/crosley/range-hood"
+    },
+    {
+      "appliance": "Crosley Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/crosley/stacked-laundry"
+    },
+    {
+      "appliance": "Crosley Oven",
+      "url": "https://www.searshomeservices.com/repair/crosley/oven"
+    },
+    {
+      "appliance": "Crosley Microwave",
+      "url": "https://www.searshomeservices.com/repair/crosley/microwave"
+    },
+    {
+      "appliance": "Crosley Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/crosley/washer-dryer-combo"
+    },
+    {
+      "appliance": "Crosley Ice maker",
+      "url": "https://www.searshomeservices.com/repair/crosley/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Crosley Cooktop",
+      "url": "https://www.searshomeservices.com/repair/crosley/cooktop"
+    },
+    {
+      "appliance": "Crosley Washer",
+      "url": "https://www.searshomeservices.com/repair/crosley/washer"
+    },
+    {
+      "appliance": "Crosley Dryer",
+      "url": "https://www.searshomeservices.com/repair/crosley/dryer"
+    },
+    {
+      "appliance": "Crosley Range",
+      "url": "https://www.searshomeservices.com/repair/crosley/range"
+    }
+  ],
+  "AFG": [
+    {
+      "appliance": "AFG Treadmill",
+      "url": "https://www.searshomeservices.com/repair/afg/treadmill"
+    },
+    {
+      "appliance": "AFG Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/afg/elliptical-machine"
+    },
+    {
+      "appliance": "AFG Stepper",
+      "url": "https://www.searshomeservices.com/repair/afg/stepper"
+    },
+    {
+      "appliance": "AFG Weight machine",
+      "url": "https://www.searshomeservices.com/repair/afg/weight-machine"
+    },
+    {
+      "appliance": "AFG Stationary bike",
+      "url": "https://www.searshomeservices.com/repair/afg/stationary-bike"
+    }
+  ],
+  "Danby": [
+    {
+      "appliance": "Danby Freezer",
+      "url": "https://www.searshomeservices.com/repair/danby/freezer"
+    },
+    {
+      "appliance": "Danby Washer",
+      "url": "https://www.searshomeservices.com/repair/danby/washer"
+    },
+    {
+      "appliance": "Danby Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/danby/refrigerator"
+    },
+    {
+      "appliance": "Danby Oven",
+      "url": "https://www.searshomeservices.com/repair/danby/oven"
+    },
+    {
+      "appliance": "Danby Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/danby/dishwasher"
+    },
+    {
+      "appliance": "Danby Dryer",
+      "url": "https://www.searshomeservices.com/repair/danby/dryer"
+    },
+    {
+      "appliance": "Danby Range",
+      "url": "https://www.searshomeservices.com/repair/danby/range"
+    },
+    {
+      "appliance": "Danby Microwave",
+      "url": "https://www.searshomeservices.com/repair/danby/microwave"
+    }
+  ],
+  "Kelvinator": [
+    {
+      "appliance": "Kelvinator Double oven",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/double-oven"
+    },
+    {
+      "appliance": "Kelvinator Dryer",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/dryer"
+    },
+    {
+      "appliance": "Kelvinator Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/stacked-laundry"
+    },
+    {
+      "appliance": "Kelvinator Cooktop",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/cooktop"
+    },
+    {
+      "appliance": "Kelvinator Freezer",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/freezer"
+    },
+    {
+      "appliance": "Kelvinator Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/trash-compactor"
+    },
+    {
+      "appliance": "Kelvinator Washer",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/washer"
+    },
+    {
+      "appliance": "Kelvinator Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/refrigerator"
+    },
+    {
+      "appliance": "Kelvinator Oven",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/oven"
+    },
+    {
+      "appliance": "Kelvinator Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/dishwasher"
+    },
+    {
+      "appliance": "Kelvinator Microwave",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/microwave"
+    },
+    {
+      "appliance": "Kelvinator Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/washer-dryer-combo"
+    },
+    {
+      "appliance": "Kelvinator Ice maker",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Kelvinator Range hood",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/range-hood"
+    },
+    {
+      "appliance": "Kelvinator Range",
+      "url": "https://www.searshomeservices.com/repair/kelvinator/range"
+    }
+  ],
+  "Electrolux": [
+    {
+      "appliance": "Electrolux Range hood",
+      "url": "https://www.searshomeservices.com/repair/electrolux/range-hood"
+    },
+    {
+      "appliance": "Electrolux Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/electrolux/stacked-laundry"
+    },
+    {
+      "appliance": "Electrolux Microwave",
+      "url": "https://www.searshomeservices.com/repair/electrolux/microwave"
+    },
+    {
+      "appliance": "Electrolux Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/electrolux/dishwasher"
+    },
+    {
+      "appliance": "Electrolux Cooktop",
+      "url": "https://www.searshomeservices.com/repair/electrolux/cooktop"
+    },
+    {
+      "appliance": "Electrolux Double oven",
+      "url": "https://www.searshomeservices.com/repair/electrolux/double-oven"
+    },
+    {
+      "appliance": "Electrolux Washer",
+      "url": "https://www.searshomeservices.com/repair/electrolux/washer"
+    },
+    {
+      "appliance": "Electrolux Oven",
+      "url": "https://www.searshomeservices.com/repair/electrolux/oven"
+    },
+    {
+      "appliance": "Electrolux Freezer",
+      "url": "https://www.searshomeservices.com/repair/electrolux/freezer"
+    },
+    {
+      "appliance": "Electrolux Ice maker",
+      "url": "https://www.searshomeservices.com/repair/electrolux/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Electrolux Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/electrolux/refrigerator"
+    },
+    {
+      "appliance": "Electrolux Dryer",
+      "url": "https://www.searshomeservices.com/repair/electrolux/dryer"
+    },
+    {
+      "appliance": "Electrolux Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/electrolux/trash-compactor"
+    },
+    {
+      "appliance": "Electrolux Range",
+      "url": "https://www.searshomeservices.com/repair/electrolux/range"
+    },
+    {
+      "appliance": "Electrolux Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/electrolux/washer-dryer-combo"
+    }
+  ],
+  "Chamberlain": [
+    {
+      "appliance": "Chamberlain Garbage disposal",
+      "url": "https://www.searshomeservices.com/repair/chamberlain/garbage-disposal"
+    }
+  ],
+  "Troy-Bilt": [
+    {
+      "appliance": "Troy-Bilt Riding mower",
+      "url": "https://www.searshomeservices.com/repair/troy-bilt/riding-mower"
+    },
+    {
+      "appliance": "Troy-Bilt Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/troy-bilt/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Troy-Bilt Snowblower",
+      "url": "https://www.searshomeservices.com/repair/troy-bilt/snowblower"
+    }
+  ],
+  "Westinghouse": [
+    {
+      "appliance": "Westinghouse Dryer",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/dryer"
+    },
+    {
+      "appliance": "Westinghouse Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/dishwasher"
+    },
+    {
+      "appliance": "Westinghouse Washer",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/washer"
+    },
+    {
+      "appliance": "Westinghouse Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/stacked-laundry"
+    },
+    {
+      "appliance": "Westinghouse Freezer",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/freezer"
+    },
+    {
+      "appliance": "Westinghouse Oven",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/oven"
+    },
+    {
+      "appliance": "Westinghouse Microwave",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/microwave"
+    },
+    {
+      "appliance": "Westinghouse Range hood",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/range-hood"
+    },
+    {
+      "appliance": "Westinghouse Double oven",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/double-oven"
+    },
+    {
+      "appliance": "Westinghouse Range",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/range"
+    },
+    {
+      "appliance": "Westinghouse Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/washer-dryer-combo"
+    },
+    {
+      "appliance": "Westinghouse Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/trash-compactor"
+    },
+    {
+      "appliance": "Westinghouse Ice maker",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Westinghouse Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/westinghouse/refrigerator"
+    }
+  ],
+  "Husqvarna": [
+    {
+      "appliance": "Husqvarna Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/husqvarna/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Husqvarna Riding mower",
+      "url": "https://www.searshomeservices.com/repair/husqvarna/riding-mower"
+    },
+    {
+      "appliance": "Husqvarna Snowblower",
+      "url": "https://www.searshomeservices.com/repair/husqvarna/snowblower"
+    }
+  ],
+  "Trane": [
+    {
+      "appliance": "Trane Water heater",
+      "url": "https://www.searshomeservices.com/repair/trane/water-heater"
+    },
+    {
+      "appliance": "Trane Central air",
+      "url": "https://www.searshomeservices.com/repair/trane/central-air"
+    },
+    {
+      "appliance": "Trane Hvac",
+      "url": "https://www.searshomeservices.com/repair/trane/all-hvac"
+    },
+    {
+      "appliance": "Trane Boiler",
+      "url": "https://www.searshomeservices.com/repair/trane/boiler"
+    },
+    {
+      "appliance": "Trane Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/trane/gas-furnace"
+    },
+    {
+      "appliance": "Trane Heat pump",
+      "url": "https://www.searshomeservices.com/repair/trane/heat-pump"
+    },
+    {
+      "appliance": "Trane Humidifier & dehumidifier",
+      "url": "https://www.searshomeservices.com/repair/trane/humidifier-and-dehumidifier"
+    }
+  ],
+  "Vestel": [
+    {
+      "appliance": "Vestel Dryer",
+      "url": "https://www.searshomeservices.com/repair/vestel/dryer"
+    },
+    {
+      "appliance": "Vestel Washer",
+      "url": "https://www.searshomeservices.com/repair/vestel/washer"
+    },
+    {
+      "appliance": "Vestel Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/vestel/refrigerator"
+    },
+    {
+      "appliance": "Vestel Range",
+      "url": "https://www.searshomeservices.com/repair/vestel/range"
+    },
+    {
+      "appliance": "Vestel Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/vestel/dishwasher"
+    },
+    {
+      "appliance": "Vestel Oven",
+      "url": "https://www.searshomeservices.com/repair/vestel/oven"
+    }
+  ],
+  "Kenmore Elite": [
+    {
+      "appliance": "Kenmore Elite Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/stacked-laundry"
+    },
+    {
+      "appliance": "Kenmore Elite Double oven",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/double-oven"
+    },
+    {
+      "appliance": "Kenmore Elite Oven",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/oven"
+    },
+    {
+      "appliance": "Kenmore Elite Washer",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/washer"
+    },
+    {
+      "appliance": "Kenmore Elite Range",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/range"
+    },
+    {
+      "appliance": "Kenmore Elite Dryer",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/dryer"
+    },
+    {
+      "appliance": "Kenmore Elite Cooktop",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/cooktop"
+    },
+    {
+      "appliance": "Kenmore Elite Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/washer-dryer-combo"
+    },
+    {
+      "appliance": "Kenmore Elite Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/refrigerator"
+    },
+    {
+      "appliance": "Kenmore Elite Ice maker",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Kenmore Elite Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/trash-compactor"
+    },
+    {
+      "appliance": "Kenmore Elite Freezer",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/freezer"
+    },
+    {
+      "appliance": "Kenmore Elite Microwave",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/microwave"
+    },
+    {
+      "appliance": "Kenmore Elite Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/dishwasher"
+    },
+    {
+      "appliance": "Kenmore Elite Range hood",
+      "url": "https://www.searshomeservices.com/repair/kenmore-elite/range-hood"
+    }
+  ],
+  "Broan": [
+    {
+      "appliance": "Broan Range hood",
+      "url": "https://www.searshomeservices.com/repair/broan/range-hood"
+    }
+  ],
+  "American Standard": [
+    {
+      "appliance": "American Standard Central air",
+      "url": "https://www.searshomeservices.com/repair/american-standard/central-air"
+    },
+    {
+      "appliance": "American Standard Hvac",
+      "url": "https://www.searshomeservices.com/repair/american-standard/all-hvac"
+    },
+    {
+      "appliance": "American Standard Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/american-standard/gas-furnace"
+    }
+  ],
+  "Haier": [
+    {
+      "appliance": "Haier Range hood",
+      "url": "https://www.searshomeservices.com/repair/haier/range-hood"
+    },
+    {
+      "appliance": "Haier Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/haier/trash-compactor"
+    },
+    {
+      "appliance": "Haier Double oven",
+      "url": "https://www.searshomeservices.com/repair/haier/double-oven"
+    },
+    {
+      "appliance": "Haier Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/haier/refrigerator"
+    },
+    {
+      "appliance": "Haier Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/haier/dishwasher"
+    },
+    {
+      "appliance": "Haier Microwave",
+      "url": "https://www.searshomeservices.com/repair/haier/microwave"
+    },
+    {
+      "appliance": "Haier Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/haier/stacked-laundry"
+    },
+    {
+      "appliance": "Haier Ice maker",
+      "url": "https://www.searshomeservices.com/repair/haier/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Haier Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/haier/washer-dryer-combo"
+    },
+    {
+      "appliance": "Haier Freezer",
+      "url": "https://www.searshomeservices.com/repair/haier/freezer"
+    }
+  ],
+  "Speed Queen": [
+    {
+      "appliance": "Speed Queen Dryer",
+      "url": "https://www.searshomeservices.com/repair/speed-queen/dryer"
+    },
+    {
+      "appliance": "Speed Queen Washer",
+      "url": "https://www.searshomeservices.com/repair/speed-queen/washer"
+    }
+  ],
+  "Carrier": [
+    {
+      "appliance": "Carrier Boiler",
+      "url": "https://www.searshomeservices.com/repair/carrier/boiler"
+    },
+    {
+      "appliance": "Carrier Hvac",
+      "url": "https://www.searshomeservices.com/repair/carrier/all-hvac"
+    },
+    {
+      "appliance": "Carrier Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/carrier/gas-furnace"
+    },
+    {
+      "appliance": "Carrier Central air",
+      "url": "https://www.searshomeservices.com/repair/carrier/central-air"
+    }
+  ],
+  "Frigidaire": [
+    {
+      "appliance": "Frigidaire Range hood",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/range-hood"
+    },
+    {
+      "appliance": "Frigidaire Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/refrigerator"
+    },
+    {
+      "appliance": "Frigidaire Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/trash-compactor"
+    },
+    {
+      "appliance": "Frigidaire Freezer",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/freezer"
+    },
+    {
+      "appliance": "Frigidaire Range",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/range"
+    },
+    {
+      "appliance": "Frigidaire Ice maker",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Frigidaire Microwave",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/microwave"
+    },
+    {
+      "appliance": "Frigidaire Oven",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/oven"
+    },
+    {
+      "appliance": "Frigidaire Washer",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/washer"
+    },
+    {
+      "appliance": "Frigidaire Dryer",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/dryer"
+    },
+    {
+      "appliance": "Frigidaire Cooktop",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/cooktop"
+    },
+    {
+      "appliance": "Frigidaire Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/stacked-laundry"
+    },
+    {
+      "appliance": "Frigidaire Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/washer-dryer-combo"
+    },
+    {
+      "appliance": "Frigidaire Double oven",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/double-oven"
+    },
+    {
+      "appliance": "Frigidaire Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/frigidaire/dishwasher"
+    }
+  ],
+  "Midea": [
+    {
+      "appliance": "Midea Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/midea/dishwasher"
+    },
+    {
+      "appliance": "Midea Freezer",
+      "url": "https://www.searshomeservices.com/repair/midea/freezer"
+    },
+    {
+      "appliance": "Midea Range",
+      "url": "https://www.searshomeservices.com/repair/midea/range"
+    },
+    {
+      "appliance": "Midea Washer",
+      "url": "https://www.searshomeservices.com/repair/midea/washer"
+    },
+    {
+      "appliance": "Midea Dryer",
+      "url": "https://www.searshomeservices.com/repair/midea/dryer"
+    },
+    {
+      "appliance": "Midea Microwave",
+      "url": "https://www.searshomeservices.com/repair/midea/microwave"
+    },
+    {
+      "appliance": "Midea Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/midea/refrigerator"
+    }
+  ],
+  "York": [
+    {
+      "appliance": "York Central air",
+      "url": "https://www.searshomeservices.com/repair/york/central-air"
+    },
+    {
+      "appliance": "York Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/york/gas-furnace"
+    },
+    {
+      "appliance": "York Hvac",
+      "url": "https://www.searshomeservices.com/repair/york/all-hvac"
+    }
+  ],
+  "Beko": [
+    {
+      "appliance": "Beko Dryer",
+      "url": "https://www.searshomeservices.com/repair/beko/dryer"
+    },
+    {
+      "appliance": "Beko Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/beko/dishwasher"
+    },
+    {
+      "appliance": "Beko Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/beko/refrigerator"
+    },
+    {
+      "appliance": "Beko Range",
+      "url": "https://www.searshomeservices.com/repair/beko/range"
+    },
+    {
+      "appliance": "Beko Oven",
+      "url": "https://www.searshomeservices.com/repair/beko/oven"
+    },
+    {
+      "appliance": "Beko Washer",
+      "url": "https://www.searshomeservices.com/repair/beko/washer"
+    },
+    {
+      "appliance": "Beko Cooktop",
+      "url": "https://www.searshomeservices.com/repair/beko/cooktop"
+    }
+  ],
+  "Coleman": [
+    {
+      "appliance": "Coleman Gas grill",
+      "url": "https://www.searshomeservices.com/repair/coleman/gas-grill"
+    }
+  ],
+  "Samsung": [
+    {
+      "appliance": "Samsung Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/samsung/trash-compactor"
+    },
+    {
+      "appliance": "Samsung Washer",
+      "url": "https://www.searshomeservices.com/repair/samsung/washer"
+    },
+    {
+      "appliance": "Samsung Dryer",
+      "url": "https://www.searshomeservices.com/repair/samsung/dryer"
+    },
+    {
+      "appliance": "Samsung Microwave",
+      "url": "https://www.searshomeservices.com/repair/samsung/microwave"
+    },
+    {
+      "appliance": "Samsung Oven",
+      "url": "https://www.searshomeservices.com/repair/samsung/oven"
+    },
+    {
+      "appliance": "Samsung Freezer",
+      "url": "https://www.searshomeservices.com/repair/samsung/freezer"
+    },
+    {
+      "appliance": "Samsung Range",
+      "url": "https://www.searshomeservices.com/repair/samsung/range"
+    },
+    {
+      "appliance": "Samsung Range hood",
+      "url": "https://www.searshomeservices.com/repair/samsung/range-hood"
+    },
+    {
+      "appliance": "Samsung Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/samsung/dishwasher"
+    },
+    {
+      "appliance": "Samsung Double oven",
+      "url": "https://www.searshomeservices.com/repair/samsung/double-oven"
+    },
+    {
+      "appliance": "Samsung Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/samsung/refrigerator"
+    },
+    {
+      "appliance": "Samsung Ice maker",
+      "url": "https://www.searshomeservices.com/repair/samsung/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Samsung Cooktop",
+      "url": "https://www.searshomeservices.com/repair/samsung/cooktop"
+    },
+    {
+      "appliance": "Samsung Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/samsung/washer-dryer-combo"
+    },
+    {
+      "appliance": "Samsung Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/samsung/stacked-laundry"
+    }
+  ],
+  "Craftsman": [
+    {
+      "appliance": "Craftsman Riding mower",
+      "url": "https://www.searshomeservices.com/repair/craftsman/riding-mower"
+    },
+    {
+      "appliance": "Craftsman Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/craftsman/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Craftsman Snowblower",
+      "url": "https://www.searshomeservices.com/repair/craftsman/snowblower"
+    }
+  ],
+  "Thor": [
+    {
+      "appliance": "Thor Cooktop",
+      "url": "https://www.searshomeservices.com/repair/thor/cooktop"
+    },
+    {
+      "appliance": "Thor Dryer",
+      "url": "https://www.searshomeservices.com/repair/thor/dryer"
+    },
+    {
+      "appliance": "Thor Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/thor/refrigerator"
+    },
+    {
+      "appliance": "Thor Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/thor/dishwasher"
+    },
+    {
+      "appliance": "Thor Range",
+      "url": "https://www.searshomeservices.com/repair/thor/range"
+    },
+    {
+      "appliance": "Thor Oven",
+      "url": "https://www.searshomeservices.com/repair/thor/oven"
+    },
+    {
+      "appliance": "Thor Washer",
+      "url": "https://www.searshomeservices.com/repair/thor/washer"
+    }
+  ],
+  "Weber": [
+    {
+      "appliance": "Weber Gas grill",
+      "url": "https://www.searshomeservices.com/repair/weber/gas-grill"
+    }
+  ],
+  "Maytag": [
+    {
+      "appliance": "Maytag Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/maytag/trash-compactor"
+    },
+    {
+      "appliance": "Maytag Double oven",
+      "url": "https://www.searshomeservices.com/repair/maytag/double-oven"
+    },
+    {
+      "appliance": "Maytag Washer",
+      "url": "https://www.searshomeservices.com/repair/maytag/washer"
+    },
+    {
+      "appliance": "Maytag Dryer",
+      "url": "https://www.searshomeservices.com/repair/maytag/dryer"
+    },
+    {
+      "appliance": "Maytag Microwave",
+      "url": "https://www.searshomeservices.com/repair/maytag/microwave"
+    },
+    {
+      "appliance": "Maytag Freezer",
+      "url": "https://www.searshomeservices.com/repair/maytag/freezer"
+    },
+    {
+      "appliance": "Maytag Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/maytag/stacked-laundry"
+    },
+    {
+      "appliance": "Maytag Range hood",
+      "url": "https://www.searshomeservices.com/repair/maytag/range-hood"
+    },
+    {
+      "appliance": "Maytag Cooktop",
+      "url": "https://www.searshomeservices.com/repair/maytag/cooktop"
+    },
+    {
+      "appliance": "Maytag Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/maytag/refrigerator"
+    },
+    {
+      "appliance": "Maytag Ice maker",
+      "url": "https://www.searshomeservices.com/repair/maytag/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Maytag Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/maytag/washer-dryer-combo"
+    },
+    {
+      "appliance": "Maytag Range",
+      "url": "https://www.searshomeservices.com/repair/maytag/range"
+    },
+    {
+      "appliance": "Maytag Oven",
+      "url": "https://www.searshomeservices.com/repair/maytag/oven"
+    },
+    {
+      "appliance": "Maytag Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/maytag/dishwasher"
+    }
+  ],
+  "Payne": [
+    {
+      "appliance": "Payne Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/payne/gas-furnace"
+    },
+    {
+      "appliance": "Payne Hvac",
+      "url": "https://www.searshomeservices.com/repair/payne/all-hvac"
+    },
+    {
+      "appliance": "Payne Central air",
+      "url": "https://www.searshomeservices.com/repair/payne/central-air"
+    }
+  ],
+  "Lennox": [
+    {
+      "appliance": "Lennox Water heater",
+      "url": "https://www.searshomeservices.com/repair/lennox/water-heater"
+    },
+    {
+      "appliance": "Lennox Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/lennox/gas-furnace"
+    },
+    {
+      "appliance": "Lennox Central air",
+      "url": "https://www.searshomeservices.com/repair/lennox/central-air"
+    },
+    {
+      "appliance": "Lennox Hvac",
+      "url": "https://www.searshomeservices.com/repair/lennox/all-hvac"
+    },
+    {
+      "appliance": "Lennox Humidifier & dehumidifier",
+      "url": "https://www.searshomeservices.com/repair/lennox/humidifier-and-dehumidifier"
+    },
+    {
+      "appliance": "Lennox Boiler",
+      "url": "https://www.searshomeservices.com/repair/lennox/boiler"
+    },
+    {
+      "appliance": "Lennox Heat pump",
+      "url": "https://www.searshomeservices.com/repair/lennox/heat-pump"
+    }
+  ],
+  "Horizon": [
+    {
+      "appliance": "Horizon Treadmill",
+      "url": "https://www.searshomeservices.com/repair/horizon/treadmill"
+    },
+    {
+      "appliance": "Horizon Stepper",
+      "url": "https://www.searshomeservices.com/repair/horizon/stepper"
+    },
+    {
+      "appliance": "Horizon Weight machine",
+      "url": "https://www.searshomeservices.com/repair/horizon/weight-machine"
+    },
+    {
+      "appliance": "Horizon Elliptical machine",
+      "url": "https://www.searshomeservices.com/repair/horizon/elliptical-machine"
+    }
+  ],
+  "Goodman": [
+    {
+      "appliance": "Goodman Water heater",
+      "url": "https://www.searshomeservices.com/repair/goodman/water-heater"
+    },
+    {
+      "appliance": "Goodman Hvac",
+      "url": "https://www.searshomeservices.com/repair/goodman/all-hvac"
+    },
+    {
+      "appliance": "Goodman Central air",
+      "url": "https://www.searshomeservices.com/repair/goodman/central-air"
+    },
+    {
+      "appliance": "Goodman Humidifier & dehumidifier",
+      "url": "https://www.searshomeservices.com/repair/goodman/humidifier-and-dehumidifier"
+    },
+    {
+      "appliance": "Goodman Heat pump",
+      "url": "https://www.searshomeservices.com/repair/goodman/heat-pump"
+    },
+    {
+      "appliance": "Goodman Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/goodman/gas-furnace"
+    }
+  ],
+  "Gladiator": [
+    {
+      "appliance": "Gladiator Microwave",
+      "url": "https://www.searshomeservices.com/repair/gladiator/microwave"
+    },
+    {
+      "appliance": "Gladiator Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/gladiator/stacked-laundry"
+    },
+    {
+      "appliance": "Gladiator Ice maker",
+      "url": "https://www.searshomeservices.com/repair/gladiator/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Gladiator Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/gladiator/trash-compactor"
+    },
+    {
+      "appliance": "Gladiator Range hood",
+      "url": "https://www.searshomeservices.com/repair/gladiator/range-hood"
+    },
+    {
+      "appliance": "Gladiator Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/gladiator/refrigerator"
+    }
+  ],
+  "Bosch": [
+    {
+      "appliance": "Bosch Microwave",
+      "url": "https://www.searshomeservices.com/repair/bosch/microwave"
+    },
+    {
+      "appliance": "Bosch Oven",
+      "url": "https://www.searshomeservices.com/repair/bosch/oven"
+    },
+    {
+      "appliance": "Bosch Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/bosch/dishwasher"
+    },
+    {
+      "appliance": "Bosch Range hood",
+      "url": "https://www.searshomeservices.com/repair/bosch/range-hood"
+    },
+    {
+      "appliance": "Bosch Dryer",
+      "url": "https://www.searshomeservices.com/repair/bosch/dryer"
+    },
+    {
+      "appliance": "Bosch Washer",
+      "url": "https://www.searshomeservices.com/repair/bosch/washer"
+    },
+    {
+      "appliance": "Bosch Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/bosch/washer-dryer-combo"
+    },
+    {
+      "appliance": "Bosch Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/bosch/trash-compactor"
+    },
+    {
+      "appliance": "Bosch Double oven",
+      "url": "https://www.searshomeservices.com/repair/bosch/double-oven"
+    },
+    {
+      "appliance": "Bosch Cooktop",
+      "url": "https://www.searshomeservices.com/repair/bosch/cooktop"
+    },
+    {
+      "appliance": "Bosch Freezer",
+      "url": "https://www.searshomeservices.com/repair/bosch/freezer"
+    },
+    {
+      "appliance": "Bosch Ice maker",
+      "url": "https://www.searshomeservices.com/repair/bosch/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Bosch Range",
+      "url": "https://www.searshomeservices.com/repair/bosch/range"
+    },
+    {
+      "appliance": "Bosch Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/bosch/refrigerator"
+    },
+    {
+      "appliance": "Bosch Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/bosch/stacked-laundry"
+    }
+  ],
+  "Ariens": [
+    {
+      "appliance": "Ariens Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/ariens/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Ariens Riding mower",
+      "url": "https://www.searshomeservices.com/repair/ariens/riding-mower"
+    }
+  ],
+  "Ruud": [
+    {
+      "appliance": "Ruud Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/ruud/gas-furnace"
+    },
+    {
+      "appliance": "Ruud Central air",
+      "url": "https://www.searshomeservices.com/repair/ruud/central-air"
+    },
+    {
+      "appliance": "Ruud Hvac",
+      "url": "https://www.searshomeservices.com/repair/ruud/all-hvac"
+    }
+  ],
+  "Kenmore": [
+    {
+      "appliance": "Kenmore Cooktop",
+      "url": "https://www.searshomeservices.com/repair/kenmore/cooktop"
+    },
+    {
+      "appliance": "Kenmore Dryer",
+      "url": "https://www.searshomeservices.com/repair/kenmore/dryer"
+    },
+    {
+      "appliance": "Kenmore Ice maker",
+      "url": "https://www.searshomeservices.com/repair/kenmore/ice-maker-freestanding"
+    },
+    {
+      "appliance": "Kenmore Range",
+      "url": "https://www.searshomeservices.com/repair/kenmore/range"
+    },
+    {
+      "appliance": "Kenmore Water heater",
+      "url": "https://www.searshomeservices.com/repair/kenmore/water-heater"
+    },
+    {
+      "appliance": "Kenmore Hvac",
+      "url": "https://www.searshomeservices.com/repair/kenmore/all-hvac"
+    },
+    {
+      "appliance": "Kenmore Oven",
+      "url": "https://www.searshomeservices.com/repair/kenmore/oven"
+    },
+    {
+      "appliance": "Kenmore Microwave",
+      "url": "https://www.searshomeservices.com/repair/kenmore/microwave"
+    },
+    {
+      "appliance": "Kenmore Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/kenmore/refrigerator"
+    },
+    {
+      "appliance": "Kenmore Humidifier & dehumidifier",
+      "url": "https://www.searshomeservices.com/repair/kenmore/humidifier-and-dehumidifier"
+    },
+    {
+      "appliance": "Kenmore Washer",
+      "url": "https://www.searshomeservices.com/repair/kenmore/washer"
+    },
+    {
+      "appliance": "Kenmore Stacked laundry",
+      "url": "https://www.searshomeservices.com/repair/kenmore/stacked-laundry"
+    },
+    {
+      "appliance": "Kenmore Heat pump",
+      "url": "https://www.searshomeservices.com/repair/kenmore/heat-pump"
+    },
+    {
+      "appliance": "Kenmore Washer dryer combo",
+      "url": "https://www.searshomeservices.com/repair/kenmore/washer-dryer-combo"
+    },
+    {
+      "appliance": "Kenmore Freezer",
+      "url": "https://www.searshomeservices.com/repair/kenmore/freezer"
+    },
+    {
+      "appliance": "Kenmore Gas furnace",
+      "url": "https://www.searshomeservices.com/repair/kenmore/gas-furnace"
+    },
+    {
+      "appliance": "Kenmore Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/kenmore/dishwasher"
+    },
+    {
+      "appliance": "Kenmore Gas grill",
+      "url": "https://www.searshomeservices.com/repair/kenmore/gas-grill"
+    },
+    {
+      "appliance": "Kenmore Double oven",
+      "url": "https://www.searshomeservices.com/repair/kenmore/double-oven"
+    },
+    {
+      "appliance": "Kenmore Trash compactor",
+      "url": "https://www.searshomeservices.com/repair/kenmore/trash-compactor"
+    },
+    {
+      "appliance": "Kenmore Range hood",
+      "url": "https://www.searshomeservices.com/repair/kenmore/range-hood"
+    },
+    {
+      "appliance": "Kenmore Central air",
+      "url": "https://www.searshomeservices.com/repair/kenmore/central-air"
+    }
+  ],
+  "Snapper": [
+    {
+      "appliance": "Snapper Riding mower",
+      "url": "https://www.searshomeservices.com/repair/snapper/riding-mower"
+    },
+    {
+      "appliance": "Snapper Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/snapper/wide-deck-lawn-mower"
+    },
+    {
+      "appliance": "Snapper Snowblower",
+      "url": "https://www.searshomeservices.com/repair/snapper/snowblower"
+    }
+  ],
+  "Magic Chef": [
+    {
+      "appliance": "Magic Chef Dryer",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/dryer"
+    },
+    {
+      "appliance": "Magic Chef Refrigerator",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/refrigerator"
+    },
+    {
+      "appliance": "Magic Chef Dishwasher",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/dishwasher"
+    },
+    {
+      "appliance": "Magic Chef Oven",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/oven"
+    },
+    {
+      "appliance": "Magic Chef Microwave",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/microwave"
+    },
+    {
+      "appliance": "Magic Chef Range",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/range"
+    },
+    {
+      "appliance": "Magic Chef Washer",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/washer"
+    },
+    {
+      "appliance": "Magic Chef Cooktop",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/cooktop"
+    },
+    {
+      "appliance": "Magic Chef Freezer",
+      "url": "https://www.searshomeservices.com/repair/magic-chef/freezer"
+    }
+  ],
+  "Murray": [
+    {
+      "appliance": "Murray Riding mower",
+      "url": "https://www.searshomeservices.com/repair/murray/riding-mower"
+    },
+    {
+      "appliance": "Murray Snowblower",
+      "url": "https://www.searshomeservices.com/repair/murray/snowblower"
+    },
+    {
+      "appliance": "Murray Wide-deck lawn mower",
+      "url": "https://www.searshomeservices.com/repair/murray/wide-deck-lawn-mower"
+    }
+  ]
+}
