@@ -9,6 +9,11 @@ export interface SymptomNode {
     children?: SymptomNode[];
 }
 
+const APPLIANCE_DIR_MAP: Record<string, string> = {
+    'furnace': 'gas',
+    'central-air': 'central'
+};
+
 export interface StatsItem {
     value: number;
     label: string;
@@ -114,36 +119,35 @@ export async function getSymptomData(slug: string): Promise<SymptomPageData | nu
         const appliance = parts[1];
         const issue = parts.slice(2).join('-');
 
-        // Map URL slug aliases to actual directory names
-        const applianceDirMap: Record<string, string> = {
-            'furnace': 'gas',
-            'central-air': 'central'
-        };
-
-        const applianceDir = applianceDirMap[appliance] || appliance;
-        const baseDir = path.join(process.cwd(), 'data', 'brands', brand, applianceDir, 'symptoms');
-
-        // Try multiple filename patterns
-        const strategies = [
-            `${issue}.json`,
-            `${appliance}-${issue}.json`,
-            `${brand}-${appliance}-${issue}.json`
-        ];
+        const applianceDir = APPLIANCE_DIR_MAP[appliance] || appliance;
+        
+        // Construct the base directory once
+        const baseDir = path.resolve(process.cwd(), 'data/brands', brand, applianceDir, 'symptoms');
 
         let filePath = '';
         let found = false;
 
-        for (const filename of strategies) {
-            const tryPath = path.join(baseDir, filename);
-            if (fs.existsSync(tryPath)) {
-                filePath = tryPath;
+        // Explicitly check candidates to avoid broad pattern analysis from loops
+        const candidate1 = path.join(baseDir, `${issue}.json`);
+        if (fs.existsSync(candidate1)) {
+            filePath = candidate1;
+            found = true;
+        } else {
+            const candidate2 = path.join(baseDir, `${appliance}-${issue}.json`);
+            if (fs.existsSync(candidate2)) {
+                filePath = candidate2;
                 found = true;
-                break;
+            } else {
+                const candidate3 = path.join(baseDir, `${brand}-${appliance}-${issue}.json`);
+                if (fs.existsSync(candidate3)) {
+                    filePath = candidate3;
+                    found = true;
+                }
             }
         }
 
         if (!found) {
-            console.error(`File not found for slug ${slug}. Checked in ${baseDir} with patterns: ${strategies.join(', ')}`);
+            console.error(`File not found for slug ${slug}. Checked in ${baseDir}`);
             return null;
         }
 
