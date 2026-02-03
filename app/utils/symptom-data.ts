@@ -1,4 +1,4 @@
-const DATA_BASE_URL = process.env.NEXT_PUBLIC_DATA_URL || 'http://localhost:3001';
+const DATA_BASE_URL = (process.env.NEXT_PUBLIC_DATA_URL || 'http://localhost:3001').replace(/\/$/, '');
 
 export interface SymptomNode {
     tag: string;
@@ -127,21 +127,28 @@ export async function getSymptomData(slug: string): Promise<SymptomPageData | nu
             `${DATA_BASE_URL}/data/brands/${brand}/${applianceDir}/symptoms/${brand}-${appliance}-${issue}.json`
         ];
 
+        console.log(`[getSymptomData] Fetching slug: ${slug}`);
+        console.log(`[getSymptomData] DATA_BASE_URL: ${DATA_BASE_URL}`);
+
         let root = null;
         for (const url of candidates) {
             try {
+                console.log(`[getSymptomData] Trying candidate: ${url}`);
                 const response = await fetch(url);
+                console.log(`[getSymptomData] Status: ${response.status} for ${url}`);
                 if (response.ok) {
                     root = await response.json();
+                    console.log(`[getSymptomData] Successfully loaded data from ${url}`);
                     break;
                 }
-            } catch (err) {
+            } catch (err: any) {
+                console.error(`[getSymptomData] Error fetching ${url}:`, err?.message || err);
                 // Continue to next candidate
             }
         }
 
         if (!root) {
-            console.error(`Data not found for slug ${slug} after checking candidates.`);
+            console.error(`[getSymptomData] Error: Data not found for slug ${slug} after checking ${candidates.length} candidates.`);
             return null;
         }
 
