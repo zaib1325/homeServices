@@ -64,7 +64,12 @@ export default function BrandApplianceRepairService({
       {/* 3. FAQ (optional) */}
       {data.faqData && data.faqData.length > 0 && (
         <div className="my-10">
-          <FAQ items={data.faqData} />
+          <FAQ
+            items={data.faqData.map((f) => ({
+              question: f.question,
+              answer: f.answer.join("\n"),
+            }))}
+          />
         </div>
       )}
 
