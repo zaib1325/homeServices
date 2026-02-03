@@ -37,7 +37,7 @@ export default function BrandApplianceRepairService({
   console.log("scraped data...... : ", data);
 
   return (
-    <div className="max-w-[75%] mx-auto">
+    <div className="max-w-[80%] mx-auto">
       {/* 1. Image&ScheduleCard */}
       <div className="relative mb-12">
         <ImageScheduleCard
